@@ -127,4 +127,4 @@ python summarize.py   # 汇总 + summary.png
   Information 章节及 MOESM 附件），全部图表包含在 `paper/` 的正文 PDF 中，故本仓库无 `supplementary/` 目录。
 - 数据与论文均为 CC-BY-4.0 开放许可；引用要求见原文 Rights and permissions。
 
-> 改名记录：2026-10-09 按顶层命名规范 yyyymmdd_reproduce_yyyymmdd_author 自 `20260831_EEG_6_Words` 改名（第二个日期为论文公开发表日，一作 Kostulin（EEG directional word recognition, Sci Data 2026-08-17）），引用路径已全量同步；云端 GitHub 改名于 2026-10-23 正式执行（10-09 当日仅完成本地改名与引用同步）。
+> 改名记录：2026-10-09 按顶层命名规范 yyyymmdd_reproduce_yyyymmdd_author 自 `20260831_EEG_6_Words` 改名（第二个日期为论文公开发表日，一作 Kostulin（EEG directional word recognition, Sci Data 2026-08-17）），引用路径已全量同步；云端 GitHub 改名于 2026-10-29 正式执行（10-09 当日仅完成本地改名与引用同步）。
