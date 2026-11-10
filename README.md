@@ -127,7 +127,7 @@ python summarize.py   # 汇总 + summary.png
   Information 章节及 MOESM 附件），全部图表包含在 `paper/` 的正文 PDF 中，故本仓库无 `supplementary/` 目录。
 - 数据与论文均为 CC-BY-4.0 开放许可；引用要求见原文 Rights and permissions。
 
-> 改名记录：2026-10-09 按顶层命名规范 yyyymmdd_reproduce_yyyymmdd_author 自 `20260831_EEG_6_Words` 改名（第二个日期为论文公开发表日，一作 Kostulin（EEG directional word recognition, Sci Data 2026-08-17）），引用路径已全量同步。
+> 改名记录：2026-10-09 按顶层命名规范 yyyymmdd_reproduce_yyyymmdd_author 自 `20260831_EEG_6_Words` 改名（第二个日期为论文公开发表日，一作 Kostulin（EEG directional word recognition, Sci Data 2026-08-17）），引用路径已全量同步；云端 GitHub 改名于 2026-10-29 正式执行（10-09 当日仅完成本地改名与引用同步）。
 
 
 
@@ -136,4 +136,3 @@ python summarize.py   # 汇总 + summary.png
 - `raw/`：官方原始压缩包，只读不动（本节变更未触碰）。
 - `unzipped/`：官方文件镜像 —— 官方内容归位（B 派整理）。Inner_Speech_Dataset.zip 移入 raw/；inner_speech_v2/ 移入本目录，原路径 data/inner_speech_v2 留目录联接（junction）保 experiments/common.py 可用。
 - `<数据集名>/`（工作目录）：转换与训练产物，**路径零改动**，全部脚本/配置/fig 管线引用不受影响。
-
